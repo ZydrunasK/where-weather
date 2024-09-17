@@ -1,0 +1,10 @@
+.foot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #7ad8d898;
+    padding: 1rem;
+    position: absolute;
+    width: 100%;
+    top: calc(100vh - 50px);
+}
